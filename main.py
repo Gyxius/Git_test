@@ -1,5 +1,5 @@
 def main():
-    """"Main file"""
+    """" Main file """
     pass
 
 
